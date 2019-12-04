@@ -1,0 +1,4 @@
+node_modules/
+
+## A traves de .gitignore colocamos las carpetas o ficheros
+## que no deseamos que se suban a nuestro repositorio.
